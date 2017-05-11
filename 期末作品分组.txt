@@ -23,6 +23,8 @@
     已收到任务书 已加入教师为协作者
     https://github.com/wgq140705136/pe.git
 11新闻网站客户端（李凯，曹挺）
+    已收到任务书 已加入教师为协作者
+    https://github.com/ice1ceCool/hide-on-bush.git 
 12聊天客户端（莫莹，吕明睿，吴定伟）
    已收到任务书
    https://github.com/LMRMYWDW/LiveChat
