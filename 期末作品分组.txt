@@ -2,7 +2,8 @@
     已收到任务书 已加入教师为协作者
     https://github.com/GarySparrow/Android-Blog
 2 职能聊天机器人 (王琛 赵晨媛 边思宇)
-    任务书格式不对
+    已收到任务书 已加入教师为协作者
+    https://github.com/wgq140705136/pe.git  
 3 mystep运动健身 (胡韬 黄波 苏晓铭)
     已收到任务书 已加入教师为协作者
     https://github.com/dance41ife/finally2017510 
