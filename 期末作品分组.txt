@@ -1,5 +1,5 @@
 1 博客客户端 (张鑫鑫 刘守川 蔡子明)  
-    任务书格式不对 已加入教师为协作者
+    已收到任务书 已加入教师为协作者
     https://github.com/GarySparrow/Android-Blog
 2 职能聊天机器人 (王琛 赵晨媛 边思宇)
     任务书格式不对
@@ -16,6 +16,8 @@
     https://github.com/shawnsky/RantApp
 8 旅行类app (宁涛 ，赵松，张宁)
 9 花草养殖 (申倩倩，吕雯倩，何梦珂)
+    已收到任务书 已加入教师为协作者
+    https://github.com/changeShen1204/SlaveOfFlower
 10音乐 (王功巧 辛佳修 李思思)
 11新闻网站客户端（李凯，曹挺）
 12聊天客户端（莫莹，吕明睿，吴定伟）
