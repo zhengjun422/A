@@ -19,6 +19,8 @@
     已收到任务书 已加入教师为协作者
     https://github.com/shawnsky/RantApp
 8 旅行类app (宁涛 ，赵松，张宁)
+    已收到任务书 已加入教师为协作者
+    https://github.com/SingZSong/ZS.git
 9 花草养殖 (申倩倩，吕雯倩，何梦珂)
     已收到任务书 已加入教师为协作者
     https://github.com/changeShen1204/SlaveOfFlower
